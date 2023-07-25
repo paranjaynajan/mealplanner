@@ -1,5 +1,4 @@
-TO start SERVER 
-
+TO START 
 RUN COMMAND :    npm run dev
 
 
