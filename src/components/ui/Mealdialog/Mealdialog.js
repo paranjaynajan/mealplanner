@@ -319,6 +319,8 @@ function Mealdialog(props) {
                             meal: mark.meal,
                             title: str,
                             recipe: mark.recipe,
+                            start: moment(startdate).format('YYYY-MM-DD'),
+                            end: moment(enddate).format('YYYY-MM-DD')
 
 
                         } : {

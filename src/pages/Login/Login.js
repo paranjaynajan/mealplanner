@@ -252,7 +252,7 @@ export default function Login() {
                         Create Account
                       </Typography>
                     </Box>
-                    <Box
+                    {/* <Box
                       sx={{
                         display: "flex",
                         justifyContent: "center",
@@ -278,7 +278,7 @@ export default function Login() {
                       </Typography>
 
     
-                    </Box>
+                    </Box> */}
                       <div style={{display:'flex',justifyContent:'space-around'}}>
                       <div>
                         <h2>User</h2>

@@ -319,11 +319,36 @@
           "time": 1688618094062,
           "food": "aalu",
           "color": "green",
-          "calories":145,
-          "fat":"8",
-          "protien":"20gm",
-          "carbs":"10"
-         
+          "calories": 145,
+          "fat": "8",
+          "protien": "20gm",
+          "carbs": "10"
+        },
+        {
+          "meal": "Breakfast",
+          "title": "Breakfast-dfg",
+          "recipe": "dfg",
+          "start": "2023-12-06",
+          "end": "2023-12-07",
+          "time": 1701639106497,
+          "food": "dfg",
+          "color": "blue"
+        },
+        {
+          "meal": "Breakfast",
+          "title": "Breakfast-4564",
+          "recipe": "dfg",
+          "time": 1701639114782,
+          "food": "4564",
+          "color": "blue"
+        },
+        {
+          "meal": "Breakfast",
+          "title": "Breakfast-12341414",
+          "recipe": "dfg",
+          "time": 1701639121182,
+          "food": "12341414",
+          "color": "blue"
         }
       ]
     },
@@ -4109,83 +4134,6 @@
       ],
       "img": "http://res.cloudinary.com/dn1sojao8/image/upload/v1687498119/mhixete1v4hdc5ltmxad.jpg",
       "id": 51
-    },
-    {
-      "sno": "41",
-      "title": "Cake41",
-      "description": "a sweet baked food made from a dough or thick batter usually containing flour and sugar and often shortening, eggs, and a raising agent (such as baking powder) : a flattened usually round mass of food that is baked or fried",
-      "calories": "",
-      "mealCatogary": "Veg",
-      "icon": "",
-      "keyword": [
-        "cake"
-      ],
-      "Steps": [
-        {
-          "order": 1,
-          "step": "Gather all ingredients."
-        },
-        {
-          "order": 2,
-          "step": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square cake pan."
-        },
-        {
-          "order": 3,
-          "step": "Cream sugar and butter together in a mixing bowl. Add eggs, one at a time, beating briefly after each addition. Mix in vanilla."
-        },
-        {
-          "order": 4,
-          "step": "Combine flour and baking powder in a separate bowl. Add to the wet ingredients and mix well. Add milk and stir until smooth."
-        },
-        {
-          "order": 5,
-          "step": "Pour batter into the prepared cake pan."
-        },
-        {
-          "order": 6,
-          "step": "Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes."
-        },
-        {
-          "order": 7,
-          "step": "Remove from the oven and cool completely."
-        },
-        {
-          "order": 8,
-          "step": "Enjoy!"
-        }
-      ],
-      "Ingredient": [
-        {
-          "order": 1,
-          "title": "1 cup white sugar"
-        },
-        {
-          "order": 2,
-          "title": "� cup unsalted butter"
-        },
-        {
-          "order": 3,
-          "title": "2 large eggs"
-        },
-        {
-          "order": 4,
-          "title": "2 teaspoons vanilla extract"
-        },
-        {
-          "order": 5,
-          "title": "1 � cups all-purpose flour"
-        },
-        {
-          "order": 6,
-          "title": "1 � teaspoons baking powder"
-        },
-        {
-          "order": 7,
-          "title": "� cup milk"
-        }
-      ],
-      "img": "http://res.cloudinary.com/dn1sojao8/image/upload/v1687498119/mhixete1v4hdc5ltmxad.jpg",
-      "id": 52
     },
     {
       "sno": "42",
